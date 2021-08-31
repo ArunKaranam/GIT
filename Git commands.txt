@@ -1,0 +1,27 @@
+
+Working Directory-->Staging area-->Loacl repository-->Remote repository
+
+
+
+
+GIT COMMANDS----
+
+
+git init=To initiate git on that folder
+git add filename/foldername=to add into staging Area
+git add .=To add whole folder at a time
+git commit -m "example"=to commit into local repository
+git status=To know the status
+git diff filename=to show the difference of the file before and after modifications
+git checkout filename=To rollback
+git remote add origin (URL)=To insert on that repository
+git push -u origin branchname=to push into remote repository
+git rm --cached -r .=To remove files from staging area
+.gitignore= To ignore files of uploading
+git clone (url)=To pulldown from remote repository to local repository
+git branch branchname=To create new branch'
+git branch=To check the branches
+git checkout branchname=To change branch
+git merge branchname=To merge one branch into another
+git fetch
+ forking =copy of one's own repository
